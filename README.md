@@ -1,49 +1,38 @@
-# Hi, I'm Nguyen Duc Thang 👋
+# Hi, I'm Thang 👋
 
-**Software Engineer** focused on backend systems with PHP / Laravel and a growing passion for Rust.
+**Software Engineer · Backend-focused**
 
-Nearly 5 years of experience across product companies and freelance projects, building everything from large-scale data pipelines to offline-first retail platforms. I pick up new technologies fast and care about writing clean, secure, maintainable code.
-
-🎯 Working toward becoming a Senior Software Engineer and contributing to products with real impact.
+Backend engineer with nearly 5 years of experience building reliable, performant systems. Strong foundation in PHP/Laravel, with the flexibility to scale full-stack as the problem demands. I care about clean architecture, measurable impact, and shipping things that work.
 
 ---
 
-### 🛠️ Tech Stack
+### What I do
 
-**Languages**
-`PHP` ·  `JavaScript`,`Rust`
+- Design and build backend systems — RESTful APIs, data pipelines, offline-first architectures
+- Optimize for performance: query tuning, indexing, refactoring legacy code to standards
+- Work across the stack when needed (React, SvelteKit, Flutter) and own deployment (Docker, AWS)
+- Take security seriously — patching real vulnerabilities, not just checking boxes
 
-**Backend**
-`Laravel` · `CakePHP` · `RESTful APIs` · `WebSocket`
+### Tech I work with
 
-**Frontend**
-`ReactJS` · `InertiaJS` · `jQuery` · `Tailwind CSS` · `HTML/CSS`
+**Languages:** PHP · JavaScript · Rust
+**Backend:** Laravel · CakePHP · RESTful API · WebSocket
+**Frontend:** ReactJS · InertiaJS · SvelteKit · jQuery · Tailwind CSS
+**Databases:** MySQL · SurrealDB
+**DevOps:** Docker · AWS EC2 · CI/CD
+**Other:** Git · Web Security · SonarQube
 
-**Database & Infra**
-`MySQL` · `SurrealDB` · `Docker`
+### A few things I've shipped
 
-**DevOps**
-`CI/CD`, `EC2`
-
-
-**Tools**
-`Git` (GitHub, GitLab) · `VSCode` · `PHPStorm` · `Cursor` · `Zed`
-
----
-
-### 💼 Experience Highlights
-
-- **Retail Management Platform** — Designed an offline-first architecture with Tauri (Rust + ReactJS) so stores keep selling during network outages, syncing automatically on reconnect.
-- **Warehouse & Translation System** — Built a bulk master-data importer handling **600,000+ records per run**; hardened the system against SQL Injection and XSS.
-- **E-commerce & Internal Tools** — Rebuilt e-commerce REST APIs for a **+80% page-load improvement** through query optimization and indexing; integrated ChatGPT over a WebSocket API Gateway.
+- An **offline-first retail platform** that keeps stores selling through network outages, syncing in under 3 seconds with zero data loss
+- A **master-data import system** handling 600,000+ records per batch, cutting processing time from ~20 minutes to 2
+- A **legacy e-commerce API rebuild** that improved page speed by 80% through query optimization and indexing
 
 ---
 
-### 📫 Connect
+### Get in touch
 
 - 📧 thangnd.deve@gmail.com
-- 📍 Ho Chi Minh City, Vietnam
+- 💻 [github.com/thangnd-deve](https://github.com/thangnd-deve)
 
----
-
-<sub>🏆 2nd place — Southern Region Web Skills Competition, 2021</sub>
+*Currently aiming to grow into a Senior Software Engineer role while contributing to products with real impact.*
