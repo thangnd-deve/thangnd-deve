@@ -11,7 +11,7 @@ Nearly 5 years of experience across product companies and freelance projects, bu
 ### 🛠️ Tech Stack
 
 **Languages**
-`PHP` · `Rust` · `JavaScript`
+`PHP` ·  `JavaScript`,`Rust`
 
 **Backend**
 `Laravel` · `CakePHP` · `RESTful APIs` · `WebSocket`
