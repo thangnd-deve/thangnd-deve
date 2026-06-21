@@ -2,7 +2,7 @@
 
 **Software Engineer · Backend-focused**
 
-Backend engineer with nearly 5 years of experience building reliable, performant systems. Strong foundation in PHP/Laravel, with the flexibility to scale full-stack as the problem demands. I care about clean architecture, measurable impact, and shipping things that work.
+PHP/Laravel engineer who builds reliable, performant backend systems. I care about clean architecture, measurable impact, and shipping things that work — and I'll scale full-stack when the problem demands it.
 
 ---
 
@@ -15,12 +15,11 @@ Backend engineer with nearly 5 years of experience building reliable, performant
 
 ### Tech I work with
 
-**Languages:** PHP · JavaScript · Rust
-**Backend:** Laravel · CakePHP · RESTful API · WebSocket
+**Core:** PHP · Laravel · CakePHP · RESTful API · WebSocket
 **Frontend:** ReactJS · InertiaJS · SvelteKit · jQuery · Tailwind CSS
 **Databases:** MySQL · SurrealDB
 **DevOps:** Docker · AWS EC2 · CI/CD
-**Other:** Git · Web Security · SonarQube
+**Other:** JavaScript · Git · Web Security · SonarQube
 
 ### A few things I've shipped
 
