@@ -22,6 +22,10 @@ Nearly 5 years of experience across product companies and freelance projects, bu
 **Database & Infra**
 `MySQL` · `SurrealDB` · `Docker`
 
+**DevOps**
+`CI/CD`, `EC2`
+
+
 **Tools**
 `Git` (GitHub, GitLab) · `VSCode` · `PHPStorm` · `Cursor` · `Zed`
 
